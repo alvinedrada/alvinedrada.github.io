@@ -12,9 +12,7 @@ labels:
 summary: I learned a language on my own over winter break of 2020.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
-</div>
+<img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
 
 SQL stands for Structured Query Language. SQL is a special-purpose programming language that was designed to manage data in a relational database. Some tasks you can perform in SQL are updating, deleting, and querying data of a database. Many people in a team would use SQL, software engineers would use SQL to communicate with the database that is storing data, data scientists would use SQL make complex queries and analyze data, businesses use SQL to make business decisions and see if their products are doing well. SQL is important for web developers because a lot of the web and applications are built on databases.
 
@@ -24,7 +22,7 @@ I learned a lot from SQL! It was the first langauge I learned on my own outside 
 
 Here is one mini-project I worked on in Khan Academy where I used a game of League of Legends scores and KDAs and stored them in a database and queried for data using Khan Academy's website version of SQLite:
 
-<img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
+<img class="ui image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/sql.PNG">
 
 
 Websites I used for learning SQL: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [W3Schools](https://www.w3schools.com/sql/), [Caleb Curry's Oracle SQL Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9).
