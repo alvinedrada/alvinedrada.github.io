@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/academicdecathalon.jpg
 title: Academic Decathalon
 permalink: projects/academic-decathalon
 # All dates must be YYYY-MM-DD format!
