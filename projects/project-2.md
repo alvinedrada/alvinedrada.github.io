@@ -2,24 +2,24 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Academic Decathalon
+permalink: projects/academic-decathalon
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-02-24
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Academic Decathalon
+ 
+summary: I competed in the Hawaii State Academic Decathalon and won a couple of medals.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In my senior year of high school, I competed in the Hawaii State Academic Decathalon. Academic Decathalon is a scholastic competition for high school students, where each student competes in 10 events: art, economics, essay, interview, literature, mathematics, music, science, social science, and speech. Each year there was a main theme for the curriculum, and that year it was Africa.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I studied hard for this competition because I really wanted to get a medal for some reason. There was 10 subjects so I had to divide time accordingly, and I realzied that mathematics was my strongest subject. I put all my effort into improving my math skills and it ended up paying off. I won the gold medal in mathematics and the bronze in social science! I was really suprised that I won not just one but two medals. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Not many schools in Hawai'i compete in academic decathalon. From what I remember, there was 3-4 schools participating and the same school won every year. Although we did not make it to the national level, I felt really good representing my school since we were underdogs. From this experience I learned that if I truly push myself, I can accomplish my goals. I will still remember this experience in the future as a time where I was passionate about something and it paid off.
+
+Here is a picture of the medals I won:
+
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
