@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png
+image: images/sql-tutorials.png
 title: Learning SQL
 permalink: projects/learning-SQL
 # All dates must be YYYY-MM-DD format!
