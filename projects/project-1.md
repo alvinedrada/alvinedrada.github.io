@@ -2,30 +2,29 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Learning SQL
+permalink: projects/learning-SQL
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-12-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - SQL
+
+summary: I learned a language on my own over winter break of 2020.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+SQL stands for Structured Query Language. SQL is a special-purpose programming language that was designed to manage data in a relational database. Some tasks you can perform in SQL are updating, deleting, and querying data of a database. Many people in a team would use SQL, software engineers would use SQL to communicate with the database that is storing data, data scientists would use SQL make complex queries and analyze data, businesses use SQL to make business decisions and see if their products are doing well. SQL is important for web developers because a lot of the web and applications are built on databases.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Over winter break of 2020, I decided that I wanted to learn a language as a personal project. After looking through and researching on what language to learn, I decided on SQL because it was used widely and I would probably need to learn it in the future. I started by looking at which websites were best to learn on and I decided to just do courses from Khan Academy, W3Schools, and watched a Youtube series tutorial for Oracle SQL. Over the course of 2 weeks, I had finished the courses and watched all the videos, and I felt that I built a good foundation of the langauge and created a few mini-projects that showed what I could do. 
 
-Here is some code that illustrates how we read values from the line sensors:
+I learned a lot from SQL! It was the first langauge I learned on my own outside of school and I enjoyed the ups and downs of learning and it showed to myself that I could do something that I put my mind to. I remember in my first ICS class our professor said that the first langauge you learn will always be the hardest, and it was true because I did not really have a hard time with SQL. Hopefully I can use this experience as motivation in the future to learn even more langauges and be a better programmer.
 
+Here is one mini-project I worked on in Khan Academy where I used a game of League of Legends scores and KDAs and stored them in a database and queried for data using Khan Academy's website version of SQLite:
+
+<img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
 ```js
 byte ADCRead(byte ch)
 {
@@ -38,7 +37,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Websites I used for learning SQL: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [W3Schools](https://www.w3schools.com/sql/), [Caleb Curry's Oracle SQL Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9).
 
 
 
