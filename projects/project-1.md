@@ -8,6 +8,7 @@ permalink: projects/learning-SQL
 date: 2020-12-20
 labels:
   - SQL
+  - Database
 
 summary: I learned a language on my own over winter break of 2020.
 ---
