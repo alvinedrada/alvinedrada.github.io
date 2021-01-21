@@ -5,57 +5,22 @@ image: images/cotton-square.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-10-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Recursion
+summary: Sudoku problem solver using recursion created in ICS 211.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In ICS 211, one of our assignments was to user recursion to solve sudoku problems. We had to implement a recursive method to find a solution to a Hexadecimal Sudoku problem. The sudoku was 16x16 grid of integers, it the sudoku would be valid when all 16 rows, 16 columns and each of the 4x4 boces in the grid had one of each of the possible 16 integer values.
 
-To give you a flavor of the game, here is an excerpt from one run:
+A lot of the code was already provided by our professor Cam Moore. We had to implement two methods, one that recursively fills all the empty sudoku cells with values, the other method returns an array list of all legal values for the given cell. We also had to test our code with our own tests to make sure our methods worked.
 
-<hr>
+This is a project that I want to reflect on again in the future as one of the first pieces of code I am proud of. I learned a lot from this assignment, recursion, writing test code, and more experience with Java. It also opened my eyes to algorithms where an algorithm can solve a sudoku puzzle in a couple of seconds but a human solving it would take way longer.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+A snippet of the code and what it could do:
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
