@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png
 title: Learning SQL
 permalink: projects/learning-SQL
 # All dates must be YYYY-MM-DD format!
@@ -25,17 +25,7 @@ I learned a lot from SQL! It was the first langauge I learned on my own outside 
 Here is one mini-project I worked on in Khan Academy where I used a game of League of Legends scores and KDAs and stored them in a database and queried for data using Khan Academy's website version of SQLite:
 
 <img class="ui image" src="https://orageek.com/wp-content/uploads/2019/01/sql-tutorials.png">
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+
 
 Websites I used for learning SQL: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [W3Schools](https://www.w3schools.com/sql/), [Caleb Curry's Oracle SQL Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9).
 
