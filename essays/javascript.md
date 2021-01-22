@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/javascript.jpg">
 
 ## Javascript
 
