@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I learned JavaScrript and so should you
+title: I learned JavaScript and so should you
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
