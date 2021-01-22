@@ -20,5 +20,6 @@ The next semester, Spring 2020, I went to my first ICS class, ICS111. It was the
 
 ## The possible future
 
+At the time of writing this essay I am in my junior year of college, taking ICS 314. I am interested in learning more about software engineering, artificial intelligence, and machine learning. I find it fascinating that machines can be programmed to think like humans and they can improve automatically through experience. I hope to do more side projects in the future, like learning how to make a mobile app, and making a bot to do things. I hope that through my college career, I become a better software engineer and computer scientist. I want to learn more coding languages, be a better programmer and make efficient code. I also look forward to getting internships so I could get more experience working in the work field. When I first started college, I had no direction. Now when I think about my future, there is are multiple paths I can see taking.
 
 
