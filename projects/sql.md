@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sql-tutorials.png
+image: images/sql-logo.png
 title: Learning SQL
 permalink: projects/learning-SQL
 # All dates must be YYYY-MM-DD format!
