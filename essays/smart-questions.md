@@ -17,7 +17,7 @@ I recently read a lengthy and in-depth article called [How To Ask Questions The 
 
 ## Question A: Smart or Not?
 
-This part of the essay I will be giving you a question from the online , and from first glance think to yourself if this question is a "smart" question or a "not so smart" question. 
+This part of the essay I will be giving you a question from the online question and answer forum for programmers ["Stack Overflow"](https://stackoverflow.com/), and from first glance think to yourself if this question is a "smart" question or a "not so smart" question. 
 
 ## Question B: Smart or Not?
 
