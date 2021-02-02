@@ -27,7 +27,7 @@ At the time of writing this essay I am in my junior year of college, taking ICS 
 I'd rather make mistakes than make nothing at all.
 "
 <footer>
-'\2014 \00A0'
+content: '\2014 \00A0';
 "Ekko, League of Legends"
 </footer>
 </blockquote>
