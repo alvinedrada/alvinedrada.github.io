@@ -11,7 +11,7 @@ labels:
 ---
 
 <figure>
-  <img class="ui medium right floated image" src="https://raw.githubusercontent .com/alvinedrada/alvinedrada.github.io/master/images/whysaylotword.jpg">
+  <img class="ui medium right floated image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/whysaylotword.jpg">
       <blockquote>
           <p>So me think, why waste time say lot word, when few word do trick?</p>
       </blockquote>
