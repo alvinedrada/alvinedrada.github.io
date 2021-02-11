@@ -33,8 +33,6 @@ Overall, I think that ESLint is extremely helpful and that everyone who uses Jav
 
 <img src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/bestfriend.jpg">
 
-## Shrine to Jennie Kim
-<img class="ui medium right floated image" src="https://media.vogue.co.uk/photos/5ed91000b3e7e29c310d49af/master/w_1080,c_limit/jennierubyjane%208.jpg">
 
 
 
