@@ -29,9 +29,14 @@ ICS 211 introduced me to my first coding standard. Checkstyle for Java. Checksty
 I probably should have realized that coding standard tools would have followed me throughout college and will probably follow me throughout my career. It has been about a week since I first started using ESLint with IntelliJ. First impressions: there were a lot of steps to install and to get this thing working correctly. At first I was having trouble with getting the "one time" tasks to work for the Javascript coding standards, my settings were not saving them and I would have to change them every time I made a new project. It turns out I had to change the setting profile to the IDE default instead of it being the project default. I also find it tedious as in order for the ESLint to work, you have to download some files into your project directory each time you make a new project. I might have to find an efficient way to do this in the future.
 
 ## I love the color green
-Overall, I think that ESLint is extremely helpful and that everyone who uses Javascript should also be using this. ESLint gives you a green checkmark when everything in your code looks good to the coding standards. This checkmark is extremely satisfying to get and it also is not that hard to get as well. ESLint tells you exactly where you went wrong and gives suggestions on how to fix it, there is even a button that just does the fix for you! The
+Overall, I think that ESLint is extremely helpful and that everyone who uses Javascript should also be using this. ESLint gives you a green checkmark when everything in your code looks good to the coding standards. This checkmark is extremely satisfying to get and it also is not that hard to get as well. ESLint tells you exactly where you went wrong and gives suggestions on how to fix it, there is even a button that just does the fix for you! ESLint saves so much time because of its instant feedback. If not for that feedback, I probably would have wasted countless hours on trying to find a careless mistake like missing a semicolon or something. Coding standards could be trivial, but taking the time to follow a coding standard will improve the quality of your code immensely.
 
-## I want to fuck your ass
+
+
+## Shrine to Jennie Kim
+<img class="ui medium right floated image" src="https://media.vogue.co.uk/photos/5ed91000b3e7e29c310d49af/master/w_1080,c_limit/jennierubyjane%208.jpg">
+
+
 
 
 
