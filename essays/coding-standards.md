@@ -31,7 +31,7 @@ I probably should have realized that coding standard tools would have followed m
 ## I love the color green
 Overall, I think that ESLint is extremely helpful and that everyone who uses Javascript should also be using this. ESLint gives you a green checkmark when everything in your code looks good to the coding standards. This checkmark is extremely satisfying to get and it also is not that hard to get as well. ESLint tells you exactly where you went wrong and gives suggestions on how to fix it, there is even a button that just does the fix for you! ESLint saves so much time because of its instant feedback. If not for that feedback, I probably would have wasted countless hours on trying to find a careless mistake like missing a semicolon or something. Coding standards could be trivial, but taking the time to follow a coding standard will improve the quality of your code immensely.
 
-<img class="ui medium right floated rounded image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/bestfriend.jpg">
+<img src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/bestfriend.jpg">
 
 ## Shrine to Jennie Kim
 <img class="ui medium right floated image" src="https://media.vogue.co.uk/photos/5ed91000b3e7e29c310d49af/master/w_1080,c_limit/jennierubyjane%208.jpg">
