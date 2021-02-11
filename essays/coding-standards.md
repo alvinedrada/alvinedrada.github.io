@@ -12,11 +12,11 @@ labels:
 
 <figure>
   <img class="ui medium right floated image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/whysaylotword.jpg">
-  <figcaption>-Kevin Malone, The Office</figcaption>
+  <figcaption><i>-Kevin Malone, The Office</i></figcaption>
 </figure>
 
 ## Standards in English and Coding
 
-Kevin right. wat if me just type rest of essay like dis? u understand still? but it ok cuz save time. Please don't talk like Kevin. English, like many other languages, has its own grammatical structure and standards that people follow. Programming languages also have coding standards that coders should be following. There are tons of avenues that
+maybe kevin right. wat if me just type rest of essay like dis? u understand still? but it ok cuz save time. Just kidding, please don't talk like Kevin. English, like many other languages, has its own grammatical structure and standards that people follow. We learn these grammar rules as children in grade school in order to help us understand others and for others to understand us. Imagine throwing all of that away just to "save some time". Programming languages also have coding standards that coders should be following. There are tons of avenues that we could use to improve the quality of our code
 
 
