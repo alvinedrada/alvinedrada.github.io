@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2020-11-01
+date: 2021-03-30
 labels:
   - Software Engineering
   - Meteor
@@ -19,8 +19,12 @@ _The solution:_ Language Library is an application for UHM students to get trans
 
 ### Approach
 The goal of this site is to help second language learners with the process of studying by providing easy access to online resources.
+
 The possible roles in this system would be users and admins.
 
+Users (students and professors) can make a profile with their language(s) of choice. They can add entries to a specific language dictionary that translate their entry to English or vice versa. Users can also ask or answer questions in a StackOverflow type manner where you can add tags to organize your question.
+
+Admins can monitor the site for inappropriate content, deleting bad entries or questions.
 
 ### Mockup page ideas
 Some possible mockup pages include:
