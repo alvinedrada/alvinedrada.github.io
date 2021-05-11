@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Web Design",
       "keywords": [
       ]
     }
@@ -51,7 +51,10 @@
       "keywords": [
         "Java",
         "Javascript",
-        "SQL"
+        "HTML/CSS",
+        "SQL",
+        "Semantic UI",
+        "Semantic UI React"
       ]
     },
     {
@@ -61,6 +64,8 @@
         "MacOS",
         "Windows",
         "Git/GitHub",
+        "Meteor",
+        "MongoDB"
       ]
     }
   ],
