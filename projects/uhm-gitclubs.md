@@ -10,7 +10,8 @@ labels:
 - Meteor
 - Javascript
 - Semantic UI React  
-  summary: An application for UHM students to browse a directory of student clubs.
+  
+summary: An application for UHM students to browse a directory of student clubs.
 ---
 
 Filler

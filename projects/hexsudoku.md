@@ -9,6 +9,7 @@ date: 2020-10-30
 labels:
   - Java
   - Recursion
+
 summary: Sudoku problem solver using recursion created in ICS 211.
 ---
 
