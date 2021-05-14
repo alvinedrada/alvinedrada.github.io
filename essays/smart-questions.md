@@ -33,3 +33,5 @@ The next portion of their question describes their problem and what diagnostic s
 
 ## Ask yourself...
 Asking questions is one of the most effective way to learn. You may have heard of the phrase "There's no such thing as a stupid question", or something along those lines. This phrase is usually used to encourage people to not be afraid of asking questions. I still believe that this phrase is true, but this article by Raymond has showed that there are many ways to IMPROVE your learning if you ask smarter questions. If you ask smart questions, while writing your smart question you learn more about your topic and increases your chance to get a efficient and effective answer. Before you ask questions, ask yourself a question. Are you asking this question smartly?
+
+<br/>

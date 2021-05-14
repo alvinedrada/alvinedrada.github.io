@@ -28,3 +28,5 @@ At the time of writing this essay I am in my junior year of college, taking ICS 
 —Ekko, League of Legends
 </footer>
 </blockquote>
+
+<br/>

@@ -22,4 +22,4 @@ This is a project that I want to reflect on again in the future as one of the fi
 A snippet of the code and what it could do:
 <img class="ui image" src="https://raw.githubusercontent.com/alvinedrada/alvinedrada.github.io/master/images/sudokucode.PNG">
 
-
+<br/>

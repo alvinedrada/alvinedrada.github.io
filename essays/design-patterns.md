@@ -31,3 +31,5 @@ No. I don't have to! Although my understanding of them is minimal, design patter
 <p><span id="#footnote-2">
 2: Messaging pattern where senders of messages, called publishers, categorize messages into classes without knowledge of which subscribers, if any, there may be.
 </span></p>
+
+<br/>

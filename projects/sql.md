@@ -28,5 +28,4 @@ Here is one mini-project I worked on in Khan Academy where I used a game of Leag
 
 Websites I used for learning SQL: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [W3Schools](https://www.w3schools.com/sql/), [Caleb Curry's Oracle SQL Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9).
 
-
-
+<br/>
