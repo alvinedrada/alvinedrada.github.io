@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Python", "TypeScript", "JavaScript", "Java", "C", "Dart", "HTML/CSS" ]
+      "keywords": [ "Python", "TypeScript", "JavaScript", "Java", "C", "Dart", "HTML/CSS", "SQL" ]
     }
     {
       "name": "Frameworks",
