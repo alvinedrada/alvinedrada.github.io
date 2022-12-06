@@ -21,7 +21,7 @@
     {
       "name": "Languages",
       "keywords": [ "Python", "TypeScript", "JavaScript", "Java", "C", "Dart", "HTML/CSS", "SQL" ]
-    }
+    },
     {
       "name": "Frameworks",
       "keywords": [ "React", "Angular", "Flutter", "Bootstrap", "Semantic UI", "Meteor", "Material UI" ]
