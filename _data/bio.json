@@ -85,6 +85,6 @@
         "Expanded map support by adding and testing 50+ locales and 150+ radar stations to app database.",
         "Utilized: Dart, Flutter, Python, Flask, Redis, Git, Android Development, JSON"
       ]
-    },
+    }
   ],
 }
