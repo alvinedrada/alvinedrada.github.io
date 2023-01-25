@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Alvin Edrada",
+    "label": "Computer Science Student @ University of Hawaii",
+    "picture": "https://github.com/alvinedrada.png",
+    "email": "aedrada@hawaii.edu",
+    "website": "https://alvinedrada.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. ",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "alvinedrada", "url": "https://github.com/alvinedrada" },
+      { "network": "linkedin", "username": "alvin-edrada", "url": "https://www.linkedin.com/in/alvin-edrada/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "UI/UX Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "Python", "TypeScript", "JavaScript", "Java", "C", "Dart", "HTML/CSS", "SQL" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "React", "Angular", "Flutter", "Bootstrap", "Semantic UI", "Meteor", "Material UI" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "courses": [
+        "ICS 111 - Introduction to Computer Science I (Java Programming)",
+        "ICS 211 - Introduction to Computer Science II (Data Structures)",
+        "ICS 212 - Program Structure",
+        "ICS 141 - Discrete Mathematics I",
+        "ICS 241 - Discrete Mathematics II",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 414 - Software Engineering II",
+        "ICS 426 - Computer System Security", 
+        "ICS 451 - Data Networks",
+        "ICS 466 - Design for Mobile Devices",
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "DataHouse",
+      "position": "Software Engineering Intern",
+      "website": "https://datahouse.com/",
+      "startDate": "2022-02-01",
+      "endDate": "2022-08-01",
+      "highlights": [
+        "Built a scalable office hoteling web application for 200+ users with a development team.",
+        "Developed REST APIs in Python incorporating AWS Lambda and API Gateway to establish communication between users, databases, and other AWS Cloud technologies (SQS, SES, S3).",
+        "Improved user experience through reducing load and wait times by designing and developing recurring reservation features using Python and PostgreSQL.",
+        "Created and redesigned web and mobile friendly pages that called the backend to display info.",
+        "Increased stability of app by developing automated API tests using Postman.",
+        "Planned pages and workflows through whiteboarding collaboration sessions with team.",
+        "Integrated agile project management methods through daily scrums and JIRA boards to stay organized and flexible during the development process.",
+        "Presented and demoed project to audiences during company-wide gatherings.",
+        "Utilized: Python, AWS (Lambda, API Gateway, CodePipeline, CloudWatch, SQS, SES, S3), PostgreSQL, TypeScript, Angular, Material UI, HTML/SCSS, Git, Postman, Full stack Development, Agile"
+      ]
+    },
+    {
+      "company": "Ikayzo",
+      "position": "Software Development Intern",
+      "website": "https://ikayzo.com/",
+      "startDate": "2021-07-01",
+      "endDate": "2022-02-01",
+      "highlights": [
+        "Refined and improved app for a mobile rainbow prediction and weather app by refactoring legacy code in Dart/Flutter and Python.",
+        "Improved performance through reducing payloads and supporting queuing to API calls in Python.",
+        "Enhanced user experience by adding guidelines and instructions to the primary map.",
+        "Utilized geocoding libraries to support location switching throughout the app and built a location switching menu using Dart and Flutter.",
+        "Expanded map support by adding and testing 50+ locales and 150+ radar stations to app database.",
+        "Utilized: Dart, Flutter, Python, Flask, Redis, Git, Android Development, JSON"
+      ]
+    }
+  ],
+}
